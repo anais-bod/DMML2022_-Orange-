@@ -11,4 +11,4 @@ We, first, did the imposed model : logistic regression, KNN, decision tree and r
 
 ### Summary of the results table :
 
-### Link to expplainatory video :
+### Link to explanatory video :
