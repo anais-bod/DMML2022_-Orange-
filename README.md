@@ -9,3 +9,8 @@ Approach :
 Summary of the results table :
 
 Link to expplainatory video :
+
+
+DATA : 
+  [training_data.csv](https://github.com/anais-bod/DMML2022_-Orange-/files/10220749/training_data.csv)
+  [unlabelled_test_data.csv](https://github.com/anais-bod/DMML2022_-Orange-/files/10220750/unlabelled_test_data.csv)
