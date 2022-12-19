@@ -14,13 +14,13 @@ The goal of this project is create a classifier that predicts how the level of s
 
 3) Then we applied models studied in lectures and Lab : logistic regression, KNN, decision tree and random forest. We have started by vectoring our text data with the pipeline vectorizer.
 
-4) We looked for hyperparameters fot kNN, Decision tree and random forest classifier. it gives the same results for kNN classifier, with decision tree it gives us more realistic results and with random forest we note an negligeable reduction of accuracy train score otherwise the rest of results was the same.
+4) We looked for hyperparameters for kNN, Decision tree and random forest classifier. It gives the same results for kNN classifier, with decision tree it gives us more realistic results and with random forest we note an negligeable reduction of accuracy train score otherwise the rest of results was the same.
 
-5) We found a other model which reveals being our best model : "the support vector classifier".
+5) We found an other model which reveals being our best model : "the support vector classifier".
 
 6) We combined our best models : logisctic regression and SVC, but the result was just lower than with the SVC's model.
 
-7) we had until there a classical approach but it wasn't enough efficiency to achieve the project, so we decided to used text embeddings.
+7) We had until there a classical approach but it wasn't enough efficiency to achieve the project, so we decided to used text embeddings.
 Nevertheless, it wasn't so efficient for one of our best model (logistic regression), then we didn't used it for the rest of our models.
 Meanwhile we tried to implement data embeddings with the method "Word2Vec" and "Doc2Vec", but we meet many problems and the results was worst than our original results so we decided to not inculded this part of our work into our project.
 
