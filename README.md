@@ -31,9 +31,9 @@ Meanwhile we tried to implement data embeddings with the method "Word2Vec" and "
 
 |  | Logistic regression |kNN	| Decision Tree | Random Forests | SVC | Combination |
 | ------------- | ------------- |----------| ------------- | ------------- |----------|
-| Precision |46,15| 39,97 | 29,15 | 37,19 | 47,83 | 46,54 |
-| Recall |46,46| 34,84 | 29,27 | 37,18 | 47,60 | 46,46 |
-| F1-score |46,16| 33,53| 28,98 | 36,87 | 47,48 | 46,17 |
-| Accuracy |46,45| 34,89 | 29,27 | 37,18 | 47,61 | 46,45 |
+| Precision |46.15| 39.97 | 29.15 | 37.19 | 47.83 | 46.54 |
+| Recall |46.46| 34.84 | 29.27 | 37.18 | 47.60 | 46.46 |
+| F1-score |46.16| 33.53| 28.98 | 36.87 | 47.48 | 46.17 |
+| Accuracy |46.45| 34.89 | 29.27 | 37.18 | 47.61 | 46.45 |
 
 ### Link to explanatory video :
