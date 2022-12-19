@@ -28,7 +28,7 @@ Meanwhile we tried to implement data embeddings with the method "Word2Vec" and "
 8) Finally we fitted our model for the entire dataset, it rises from 2% to 4% our rank for all of our models.
 
 ### Summary of the results :
-|  | Logistic regression | kNN	| Decision Tree | Random Forests | SVC | Combination |
+|  |Logistic regression |kNN	|Decision Tree |Random Forests |SVC |Combination |
 | ------------- | ------------- |----------| ------------- | ------------- |----------|
 | Precision |46.15| 39.97 | 29.15 | 37.19 | 47.83 | 46.54 |
 | Recall |46.46| 34.84 | 29.27 | 37.18 | 47.60 | 46.46 |
