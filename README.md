@@ -36,3 +36,5 @@ Meanwhile, we tried to implement data embeddings with the method "Word2Vec" and 
 | Accuracy | 46.45 |34.89| 29.27 | 37.18 |47.61| 46.45|
 
 ### Link to explanatory video :
+
+https://www.youtube.com/watch?v=E0DqL9c4aIU
