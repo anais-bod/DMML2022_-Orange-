@@ -1,1 +1,21 @@
+Commun's documentation :
+- Github of the course : https://github.com/michalis0/DataMining_and_MachineLearning
+- "Kaggle's page" : https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022/overview
 
+Documentation for imposed models :
+- "Hyperparameter Tuning the Random Forest in Python" : https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+- "Optimization of hyper parameters for logistic regression in Python" : https://www.projectpro.io/recipes/optimize-hyper-parameters-of-logistic-regression-model-using-grid-search-in-python
+- "Decision Tree Classification in Python Tutorial" : https://www.datacamp.com/tutorial/decision-tree-classification-python
+- Explications of TfidVectorizer : https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+- Explications of Pipeline : https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+- "KNN Best Parameters GridSearchCV" : https://www.kaggle.com/code/melihkanbay/knn-best-parameters-gridsearchcv
+
+Documentation used to improve our model :
+- "Ensemble Methods, from Intuition to Implementation" : https://towardsdatascience.com/ensemble-methods-or-democracy-for-ai-bac2fa129f61
+- Vidéo YouTube : "Qu'est-ce que Word2Vec ? Une explication simple | Tutoriel d'apprentissage en profondeur 41 (Tensorflow, Keras et Python)" :
+https://www.youtube.com/watch?v=hQwFeIupNP0
+- Explications of SVC model : https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html
+- "Classification with Neural Networks using Python" : https://thecleverprogrammer.com/2022/01/10/classification-with-neural-networks-using-python/
+- "Getting Started With Embeddings" : https://huggingface.co/blog/getting-started-with-embeddings
+- "Word Vectors" : https://www.kaggle.com/code/matleonard/word-vectors/notebook
+- "Embeddings, Transformers and Transfer Learning" : https://spacy.io/usage/embeddings-transformers
