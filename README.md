@@ -10,7 +10,7 @@ The goal of this project is create a classifier that predicts how the level of s
 
 1) First we upload all data and patterns needed.
 
-2) We analyse the data for checking if there was problems in our dataset, however there was nothing to check (NaN values, outliers...) so it was quick.
+2) We analyse the data for checking if there were problems in our dataset, however there was nothing to check (NaN values, outliers...) so it was quick.
 
 3) Then we applied models studied in lectures and Lab : logistic regression, KNN, decision tree and random forest. We have started by vectoring our text data with the pipeline vectorizer.
 
@@ -20,7 +20,7 @@ The goal of this project is create a classifier that predicts how the level of s
 
 6) We combined our best models : logistic regression and SVC, but the result was just lower than with the SVC's model.
 
-7) We had until there a classical approach but it wasn't enough efficiency to achieve the project, so we decided to used text embeddings.
+7) We had until there a classical approach but it wasn't enough efficiency to achieve the project, so we decided to use text embeddings.
 Nevertheless, it wasn't so efficient for one of our best model (logistic regression), then we didn't used it for the rest of our models.
 Meanwhile, we tried to implement data embeddings with the method "Word2Vec" and "Doc2Vec", but we met many problems and the results were worst than our original ones so we decided to not inculde this part of our work into our project.
 
