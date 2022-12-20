@@ -18,7 +18,7 @@ The goal of this project is create a classifier that predicts how the level of s
 
 5) We found an other model which reveals being our best model : "the support vector classifier".
 
-6) We combined our best models : logisctic regression and SVC, but the result was just lower than with the SVC's model.
+6) We combined our best models : logistic regression and SVC, but the result was just lower than with the SVC's model.
 
 7) We had until there a classical approach but it wasn't enough efficiency to achieve the project, so we decided to used text embeddings.
 Nevertheless, it wasn't so efficient for one of our best model (logistic regression), then we didn't used it for the rest of our models.
