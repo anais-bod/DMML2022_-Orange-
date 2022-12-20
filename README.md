@@ -4,7 +4,7 @@
 Aïssa Meziani and Anaïs Bodénès
 
 ### Project description : 
-The goal of this project is create a classifier that predicts how the level of some text in French (A1,..., C2).
+The goal of this project is to create a classifier that predicts how the level of some text in French (A1,..., C2).
 
 ### Approach :
 
